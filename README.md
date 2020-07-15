@@ -1,4 +1,4 @@
-# Quora-Qusetions-Pairs-App
+# Quora-Questions-Pairs-App
 This research is based on the toturial [BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/).
 
 Under training-bert folder you can find a 
