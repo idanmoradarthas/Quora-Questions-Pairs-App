@@ -1,6 +1,11 @@
 # Quora-Qusetions-Pairs-App
 This research is based on the toturial [BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/).
 
+Under training-bert folder you can find a 
+[Jupyter notebook](https://github.com/idanmoradarthas/Quora-Qusetions-Pairs-App/blob/master/training-bert/BERT%20Fine-Tuning%20Quora%20Question%20pairs%20with%20PyTorch.ipynb). 
+There I show how I fined-tune base-uncased bert model to solve the classification problem of duplication questions 
+from Quora website.
+
 # Introduction
 In this research I'd like to use BERT with the huggingface PyTorch library to fine-tune a model which will perform 
 best in question pairs classification. The app is build using Streamlit.
